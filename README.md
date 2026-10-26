@@ -3,6 +3,8 @@
 Campus road intelligence and issue reporting for Ajeenkya DY Patil University, Lohegaon.
 Next.js 15 (App Router) + TypeScript, Leaflet map on a dark OpenStreetMap basemap, and a demo backend built from Next.js route handlers.
 
+Modified by Praglbh 
+
 ## Run it
 
 ```bash
@@ -53,3 +55,4 @@ app/            pages and API route handlers (/api/reports, /api/roads, /api/saf
 components/     CampusMap (Leaflet), MapExplorer, ReportForm, SafeRouteView, ReportsTable
 lib/            store (demo data layer), drqi (scoring), graph (routing), auth, geo, campus-data
 ```
+
